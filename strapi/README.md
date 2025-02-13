@@ -4,3 +4,4 @@ Script de utilidades para la subida de datos a Strapi
 - El script de json_juntar_apartamentos.py junta los datos de los apartamentos en un solo archivo json desde los archivos CSV descargados.
 - El script de json_fixer_edificios.py puede ser útil al convertir los datos de los edificios a una lista de objetos.
 - El script de modificador_campo_global.py sirve para modificar un campo para todos los apartamentos a la vez.
+- El script de subir_apartamentos.py sirve para subir los apartamentos de un determinado edificio.
